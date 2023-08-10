@@ -21,5 +21,3 @@ class Solution:
                     r = m - 1
                     
         return -1
-            
-            
