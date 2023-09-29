@@ -17,6 +17,9 @@ class Solution:
                 
             if (b > nums[j]):
                 dec = False
+                
+            if (not (inc or dec)):
+                return False
               
             a = nums[i]
             b = nums[j]
