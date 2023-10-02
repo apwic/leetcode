@@ -1,17 +1,17 @@
 class Solution:
     def winnerOfGame(self, colors: str) -> bool:
-        def countMoves(s: str, turn: str) -> int:
-            count, total = 0, 0
-            for char in s:
-                if char == turn:
-                    count += 1
-                    total += max(0, count - 2)
-                else:
-                    count = 0
-            return total
-
-        A_moves = countMoves(colors, 'A')
-        B_moves = countMoves(colors, 'B')
+        A, B = 0, 0
+        count_A, count_B = 0, 0
         
-        return A_moves > B_moves
+        for char in colors:
+            if char == 'A':
+                count_A += 1
+                A += max(0, count_A - 2)
+                count_B = 0
+            else:
+                count_B += 1
+                B += max(0, count_B - 2)
+                count_A = 0
+        
+        return A > B
     
