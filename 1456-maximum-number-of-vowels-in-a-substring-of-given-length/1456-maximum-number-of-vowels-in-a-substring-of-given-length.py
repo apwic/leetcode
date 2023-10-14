@@ -7,15 +7,13 @@ class Solution:
         n = len(s)
         
         for r in range(n):
-            curr += 1
             if (s[r] in check):
                 vwl += 1
                 
-            while (curr > k):
+            while (r - l + 1 > k):
                 if (s[l] in check):
                     vwl -= 1
                 l += 1
-                curr -= 1
                     
             mx = max(mx, vwl)
             
