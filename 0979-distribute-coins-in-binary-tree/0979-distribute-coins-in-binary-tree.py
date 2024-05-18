@@ -15,10 +15,9 @@ class Solution:
             l = DFS(node.left)
             r = DFS(node.right)
             
-            balance = node.val - 1 + l + r
-            self.moves += abs(balance)
+            self.moves += abs(l) + abs(r)
             
-            return balance
+            return node.val - 1 + l + r
         
         DFS(root)
         return self.moves
