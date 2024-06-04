@@ -5,12 +5,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Design
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/apwic/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0969-number-of-recent-calls](https://github.com/apwic/leetcode/tree/master/0969-number-of-recent-calls) |
 # Queue
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/apwic/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0969-number-of-recent-calls](https://github.com/apwic/leetcode/tree/master/0969-number-of-recent-calls) |
 # Data Stream
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/apwic/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0969-number-of-recent-calls](https://github.com/apwic/leetcode/tree/master/0969-number-of-recent-calls) |
+# Array
+|  |
+| ------- |
+| [0346-moving-average-from-data-stream](https://github.com/apwic/leetcode/tree/master/0346-moving-average-from-data-stream) |
