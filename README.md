@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/apwic/leetcode/tree/master/0346-moving-average-from-data-stream) |
+| [0937-online-stock-span](https://github.com/apwic/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/apwic/leetcode/tree/master/0969-number-of-recent-calls) |
 # Queue
 |  |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/apwic/leetcode/tree/master/0346-moving-average-from-data-stream) |
+| [0937-online-stock-span](https://github.com/apwic/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/apwic/leetcode/tree/master/0969-number-of-recent-calls) |
 # Array
 |  |
@@ -32,11 +34,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0496-next-greater-element-i](https://github.com/apwic/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/apwic/leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/apwic/leetcode/tree/master/0937-online-stock-span) |
 # Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/apwic/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/apwic/leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/apwic/leetcode/tree/master/0937-online-stock-span) |
 # Sliding Window
 |  |
 | ------- |
