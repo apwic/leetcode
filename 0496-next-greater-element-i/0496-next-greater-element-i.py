@@ -1,24 +1,19 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        stack = []
+        idx_map = {}
+
+        for num in nums2:
+            while stack and stack[-1] < num:
+                idx_map[stack.pop()] = num
+                
+            stack.append(num)
+
         ans = []
+        for num in nums1:
+            if num in idx_map:
+                ans.append(idx_map[num])
+            else:
+                ans.append(-1)
 
-        for i in range(len(nums1)):
-            j = 0
-            while j < len(nums2):
-                if nums1[i] == nums2[j]:
-                    break
-                j += 1
-
-            greater = -1
-            j += 1
-            while j < len(nums2):
-                if nums2[j] > nums1[i]:
-                    greater = nums2[j]
-                    break
-                j += 1
-
-            ans.append(greater)
-        
         return ans
-
-
