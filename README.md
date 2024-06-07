@@ -24,15 +24,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/apwic/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0346-moving-average-from-data-stream](https://github.com/apwic/leetcode/tree/master/0346-moving-average-from-data-stream) |
+| [0496-next-greater-element-i](https://github.com/apwic/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/apwic/leetcode/tree/master/0739-daily-temperatures) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/apwic/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/apwic/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/apwic/leetcode/tree/master/0739-daily-temperatures) |
 # Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/apwic/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/apwic/leetcode/tree/master/0739-daily-temperatures) |
 # Sliding Window
 |  |
@@ -53,3 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/apwic/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/apwic/leetcode/tree/master/0496-next-greater-element-i) |
