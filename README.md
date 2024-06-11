@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/apwic/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0346-moving-average-from-data-stream](https://github.com/apwic/leetcode/tree/master/0346-moving-average-from-data-stream) |
+| [0649-dota2-senate](https://github.com/apwic/leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/apwic/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/apwic/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Data Stream
@@ -64,3 +65,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/apwic/leetcode/tree/master/0496-next-greater-element-i) |
+# String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/apwic/leetcode/tree/master/0649-dota2-senate) |
+# Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/apwic/leetcode/tree/master/0649-dota2-senate) |
