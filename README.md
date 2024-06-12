@@ -80,3 +80,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0649-dota2-senate](https://github.com/apwic/leetcode/tree/master/0649-dota2-senate) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/apwic/leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
+# Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/apwic/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/apwic/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/apwic/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/apwic/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
