@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/apwic/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/apwic/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/apwic/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/apwic/leetcode/tree/master/0547-number-of-provinces) |
 | [1254-deepest-leaves-sum](https://github.com/apwic/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/apwic/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 # Binary Tree
 |  |
 | ------- |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/apwic/leetcode/tree/master/0547-number-of-provinces) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/apwic/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 # Matrix
 |  |
 | ------- |
