@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/apwic/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0346-moving-average-from-data-stream](https://github.com/apwic/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0496-next-greater-element-i](https://github.com/apwic/leetcode/tree/master/0496-next-greater-element-i) |
+| [0695-max-area-of-island](https://github.com/apwic/leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/apwic/leetcode/tree/master/0739-daily-temperatures) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/apwic/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/apwic/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/apwic/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/apwic/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/apwic/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/apwic/leetcode/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/apwic/leetcode/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/apwic/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/apwic/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/apwic/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/apwic/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/apwic/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/apwic/leetcode/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/apwic/leetcode/tree/master/0871-keys-and-rooms) |
 | [1254-deepest-leaves-sum](https://github.com/apwic/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -178,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/apwic/leetcode/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/apwic/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/apwic/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/apwic/leetcode/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/apwic/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 # Graph
 |  |
@@ -192,3 +196,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/apwic/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/apwic/leetcode/tree/master/0695-max-area-of-island) |
