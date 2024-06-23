@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/apwic/leetcode/tree/master/0496-next-greater-element-i) |
 | [0695-max-area-of-island](https://github.com/apwic/leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/apwic/leetcode/tree/master/0739-daily-temperatures) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/apwic/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/apwic/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/apwic/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/apwic/leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/apwic/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/apwic/leetcode/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/apwic/leetcode/tree/master/0871-keys-and-rooms) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/apwic/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/apwic/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/apwic/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -204,3 +206,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/apwic/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/apwic/leetcode/tree/master/0695-max-area-of-island) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/apwic/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
