@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/apwic/leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/apwic/leetcode/tree/master/0739-daily-temperatures) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/apwic/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/apwic/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/apwic/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/apwic/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/apwic/leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/apwic/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/apwic/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/apwic/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/apwic/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/apwic/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/apwic/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/apwic/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/apwic/leetcode/tree/master/0695-max-area-of-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/apwic/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/apwic/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 # Dynamic Programming
 |  |
 | ------- |
