@@ -12,7 +12,6 @@ class Solution:
             if i + arr[i] < n:
                 graphs[i].add(i + arr[i])
 
-        len_targets = len(targets)
         queue = deque([start])
         seen = set({start})
 
@@ -20,11 +19,11 @@ class Solution:
             node = queue.popleft()
 
             if node in targets:
-                targets.remove(node)
+                return True
 
             for neighbor in graphs[node]:
                 if neighbor not in seen:
                     seen.add(neighbor)
                     queue.append(neighbor)
 
-        return len_targets != len(targets)
+        return False
