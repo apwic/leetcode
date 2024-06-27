@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/apwic/leetcode/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/apwic/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/apwic/leetcode/tree/master/0496-next-greater-element-i) |
 | [0753-open-the-lock](https://github.com/apwic/leetcode/tree/master/0753-open-the-lock) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/apwic/leetcode/tree/master/0127-word-ladder) |
 | [0399-evaluate-division](https://github.com/apwic/leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/apwic/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0649-dota2-senate](https://github.com/apwic/leetcode/tree/master/0649-dota2-senate) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/apwic/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/apwic/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/apwic/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/apwic/leetcode/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/apwic/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/apwic/leetcode/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/apwic/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
