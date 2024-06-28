@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/apwic/leetcode/tree/master/0739-daily-temperatures) |
 | [0753-open-the-lock](https://github.com/apwic/leetcode/tree/master/0753-open-the-lock) |
 | [0945-snakes-and-ladders](https://github.com/apwic/leetcode/tree/master/0945-snakes-and-ladders) |
+| [1127-last-stone-weight](https://github.com/apwic/leetcode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/apwic/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/apwic/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/apwic/leetcode/tree/master/1428-jump-game-iii) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/apwic/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1127-last-stone-weight](https://github.com/apwic/leetcode/tree/master/1127-last-stone-weight) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/apwic/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Monotonic Queue
 |  |
