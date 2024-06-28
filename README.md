@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1792-find-the-most-competitive-subsequence](https://github.com/apwic/leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/apwic/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2206-detonate-the-maximum-bombs](https://github.com/apwic/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/apwic/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/apwic/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 # Stack
 |  |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/apwic/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1127-last-stone-weight](https://github.com/apwic/leetcode/tree/master/1127-last-stone-weight) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/apwic/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/apwic/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 # Monotonic Queue
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0649-dota2-senate](https://github.com/apwic/leetcode/tree/master/0649-dota2-senate) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/apwic/leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/apwic/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 # Tree
 |  |
 | ------- |
