@@ -292,11 +292,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/apwic/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/apwic/leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/apwic/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2245-destroying-asteroids](https://github.com/apwic/leetcode/tree/master/2245-destroying-asteroids) |
 ## Greedy
 |  |
 | ------- |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/apwic/leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/apwic/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2245-destroying-asteroids](https://github.com/apwic/leetcode/tree/master/2245-destroying-asteroids) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/apwic/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/apwic/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/apwic/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [2245-destroying-asteroids](https://github.com/apwic/leetcode/tree/master/2245-destroying-asteroids) |
 ## Bucket Sort
 |  |
 | ------- |
