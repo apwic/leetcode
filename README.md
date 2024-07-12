@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/apwic/leetcode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/apwic/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/apwic/leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/apwic/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/apwic/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/apwic/leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/apwic/leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/apwic/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0658-find-k-closest-elements](https://github.com/apwic/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/apwic/leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/apwic/leetcode/tree/master/0907-koko-eating-bananas) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/apwic/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/apwic/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sliding Window
