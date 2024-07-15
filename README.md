@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/apwic/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/apwic/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/apwic/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0658-find-k-closest-elements](https://github.com/apwic/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/apwic/leetcode/tree/master/0792-binary-search) |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/apwic/leetcode/tree/master/0069-sqrtx) |
 | [1014-k-closest-points-to-origin](https://github.com/apwic/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1448-maximum-69-number](https://github.com/apwic/leetcode/tree/master/1448-maximum-69-number) |
 ## Geometry
