@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/apwic/leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/apwic/leetcode/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/apwic/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/apwic/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/apwic/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -470,4 +471,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/apwic/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/apwic/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
