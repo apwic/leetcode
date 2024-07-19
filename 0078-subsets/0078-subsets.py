@@ -7,10 +7,9 @@ class Solution:
                 self.ans.append(arr[:])
                 return 
 
-            backtrack(idx+1, arr)
+            backtrack(idx+1, arr[:])
             arr.append(nums[idx])
-            backtrack(idx+1, arr)
-            arr.pop()
+            backtrack(idx+1, arr[:])
 
         backtrack(0)
         return self.ans
