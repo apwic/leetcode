@@ -1,9 +1,16 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        from itertools import combinations
-        ans = []
-        
-        for i in range(len(nums)+1):
-            ans += combinations(nums, i)
+        n = len(nums)
+        self.ans = []
+        def backtrack(idx, arr=[]):
+            if idx == n:
+                self.ans.append(arr[:])
+                return 
 
-        return ans
+            backtrack(idx+1, arr)
+            arr.append(nums[idx])
+            backtrack(idx+1, arr)
+            arr.pop()
+
+        backtrack(0)
+        return self.ans
