@@ -455,10 +455,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/apwic/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1753-path-with-minimum-effort](https://github.com/apwic/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/apwic/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1753-path-with-minimum-effort](https://github.com/apwic/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
@@ -478,8 +480,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/apwic/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/apwic/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/apwic/leetcode/tree/master/0078-subsets) |
+| [0813-all-paths-from-source-to-target](https://github.com/apwic/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/apwic/leetcode/tree/master/0078-subsets) |
+## Graph
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/apwic/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
