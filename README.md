@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/apwic/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/apwic/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/apwic/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/apwic/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/apwic/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/apwic/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/apwic/leetcode/tree/master/0078-subsets) |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/apwic/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/apwic/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/apwic/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/apwic/leetcode/tree/master/0079-word-search) |
@@ -567,4 +569,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/apwic/leetcode/tree/master/1764-maximum-repeating-substring) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/apwic/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
