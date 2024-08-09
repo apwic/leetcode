@@ -408,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/apwic/leetcode/tree/master/0125-valid-palindrome) |
 | [0658-find-k-closest-elements](https://github.com/apwic/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/apwic/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/apwic/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/apwic/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/apwic/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/apwic/leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/apwic/leetcode/tree/master/0125-valid-palindrome) |
 | [1764-maximum-repeating-substring](https://github.com/apwic/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/apwic/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
