@@ -445,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/apwic/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/apwic/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/apwic/leetcode/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/apwic/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -510,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/apwic/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/apwic/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/apwic/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/apwic/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/apwic/leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/apwic/leetcode/tree/master/0120-triangle) |
@@ -589,4 +591,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/apwic/leetcode/tree/master/0054-spiral-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/apwic/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
