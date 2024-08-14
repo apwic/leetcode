@@ -1,15 +1,21 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        path = [[-1 for j in range(n)] for i in range(m)]
-        
+        dp = [[0] * n] * m
+        dp[0][0] = 1
+
+        def valid(i, j):
+            return 0 <= i < m and 0 <= j < n
+
         for i in range(m):
-            path[i][0] = 1
-            
-        for i in range(n):
-            path[0][i] = 1
-            
-        for i in range(1, m):
-            for j in range(1, n):
-                path[i][j] = path[i-1][j] + path[i][j-1]
-                
-        return path[m-1][n-1]
+            for j in range(n):
+                top, left = i-1, j-1
+                valid_top, valid_left = valid(top, j), valid(i, left)
+
+                if valid_top and valid_left:
+                    dp[i][j] = dp[top][j] + dp[i][left]
+                elif valid_top:
+                    dp[i][j] = dp[top][j]
+                elif valid_left:
+                    dp[i][j] = dp[i][left]
+
+        return dp[-1][-1]
