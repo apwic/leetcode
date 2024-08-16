@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/apwic/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/apwic/leetcode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/apwic/leetcode/tree/master/0518-coin-change-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/apwic/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/apwic/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/apwic/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/apwic/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/apwic/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/apwic/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/apwic/leetcode/tree/master/0502-ipo) |
+| [0624-maximum-distance-in-arrays](https://github.com/apwic/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/apwic/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/apwic/leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/apwic/leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
