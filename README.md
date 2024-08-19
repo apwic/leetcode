@@ -456,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/apwic/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/apwic/leetcode/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/apwic/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0650-2-keys-keyboard](https://github.com/apwic/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/apwic/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/apwic/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/apwic/leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -535,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0357-count-numbers-with-unique-digits](https://github.com/apwic/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/apwic/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/apwic/leetcode/tree/master/0518-coin-change-ii) |
+| [0650-2-keys-keyboard](https://github.com/apwic/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/apwic/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/apwic/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/apwic/leetcode/tree/master/1013-fibonacci-number) |
