@@ -16,10 +16,7 @@ class Solution:
                 else:
                     prev.next = curr.next
             else:
-                if prev == None:
-                    prev = head
-                else:
-                    prev = prev.next
+                prev = curr
             curr = curr.next
         
         return head
