@@ -488,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/apwic/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1484-linked-list-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -501,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/apwic/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1484-linked-list-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -526,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/apwic/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1484-linked-list-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/apwic/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -533,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/apwic/leetcode/tree/master/0322-coin-change) |
 | [0813-all-paths-from-source-to-target](https://github.com/apwic/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/apwic/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1484-linked-list-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/apwic/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
@@ -660,5 +664,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/apwic/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
