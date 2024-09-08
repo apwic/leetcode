@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/split-linked-list-in-parts">725. Split Linked List in Parts</a></h2><h3>Medium</h3><hr><p>Given the <code>head</code> of a singly linked list and an integer <code>k</code>, split the linked list into <code>k</code> consecutive linked list parts.</p>
+<h2><a href="https://leetcode.com/problems/split-linked-list-in-parts/?envType=daily-question&envId=2024-09-08">725. Split Linked List in Parts</a></h2><h3>Medium</h3><hr><p>Given the <code>head</code> of a singly linked list and an integer <code>k</code>, split the linked list into <code>k</code> consecutive linked list parts.</p>
 
 <p>The length of each part should be as equal as possible: no two parts should have a size differing by more than one. This may lead to some parts being null.</p>
 
