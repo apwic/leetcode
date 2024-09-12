@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/apwic/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/apwic/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1753-path-with-minimum-effort](https://github.com/apwic/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/apwic/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1829-maximum-units-on-a-truck](https://github.com/apwic/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/apwic/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/apwic/leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-reduce-array-size-to-the-half](https://github.com/apwic/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/apwic/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/apwic/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/apwic/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/apwic/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -427,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/apwic/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/apwic/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/apwic/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Quickselect
 |  |
 | ------- |
@@ -607,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/apwic/leetcode/tree/master/0137-single-number-ii) |
 | [0338-counting-bits](https://github.com/apwic/leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/apwic/leetcode/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/apwic/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/apwic/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Graph
 |  |
@@ -622,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/apwic/leetcode/tree/master/0125-valid-palindrome) |
 | [1250-longest-common-subsequence](https://github.com/apwic/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1764-maximum-repeating-substring](https://github.com/apwic/leetcode/tree/master/1764-maximum-repeating-substring) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/apwic/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/apwic/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/apwic/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
