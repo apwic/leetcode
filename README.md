@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/apwic/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/apwic/leetcode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/apwic/leetcode/tree/master/0518-coin-change-ii) |
+| [0539-minimum-time-difference](https://github.com/apwic/leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/apwic/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/apwic/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/apwic/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/apwic/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/apwic/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/apwic/leetcode/tree/master/0502-ipo) |
+| [0539-minimum-time-difference](https://github.com/apwic/leetcode/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/apwic/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/apwic/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/apwic/leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
@@ -477,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/apwic/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/apwic/leetcode/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/apwic/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0539-minimum-time-difference](https://github.com/apwic/leetcode/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/apwic/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/apwic/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/apwic/leetcode/tree/master/1013-fibonacci-number) |
@@ -632,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/apwic/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/apwic/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/apwic/leetcode/tree/master/0125-valid-palindrome) |
+| [0539-minimum-time-difference](https://github.com/apwic/leetcode/tree/master/0539-minimum-time-difference) |
 | [1250-longest-common-subsequence](https://github.com/apwic/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/apwic/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1764-maximum-repeating-substring](https://github.com/apwic/leetcode/tree/master/1764-maximum-repeating-substring) |
