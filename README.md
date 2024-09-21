@@ -543,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/apwic/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/apwic/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1484-linked-list-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -706,4 +707,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/apwic/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/apwic/leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
