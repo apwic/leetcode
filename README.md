@@ -646,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/apwic/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1325-path-with-maximum-probability](https://github.com/apwic/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1916-find-center-of-star-graph](https://github.com/apwic/leetcode/tree/master/1916-find-center-of-star-graph) |
 ## String
 |  |
 | ------- |
