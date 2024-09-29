@@ -501,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/apwic/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/apwic/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1448-maximum-69-number](https://github.com/apwic/leetcode/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/apwic/leetcode/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/apwic/leetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/apwic/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Geometry
@@ -691,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/apwic/leetcode/tree/master/0054-spiral-matrix) |
 | [0906-walking-robot-simulation](https://github.com/apwic/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1184-car-pooling](https://github.com/apwic/leetcode/tree/master/1184-car-pooling) |
+| [1642-water-bottles](https://github.com/apwic/leetcode/tree/master/1642-water-bottles) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/apwic/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/apwic/leetcode/tree/master/2155-find-missing-observations) |
 ## Combinatorics
