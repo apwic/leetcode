@@ -507,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/apwic/leetcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/apwic/leetcode/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/apwic/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/apwic/leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Geometry
 |  |
 | ------- |
@@ -700,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/apwic/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/apwic/leetcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/apwic/leetcode/tree/master/2645-pass-the-pillow) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/apwic/leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Combinatorics
 |  |
 | ------- |
