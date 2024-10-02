@@ -1,12 +1,10 @@
 class Solution:
     def arrayRankTransform(self, arr: List[int]) -> List[int]:
-        heap = arr[:]
-        heapq.heapify(heap)
+        arr_sort = sorted(arr)
         freq = defaultdict(int)
-
         rank = 1
-        while heap:
-            num = heapq.heappop(heap)
+        
+        for num in arr_sort:
             if not freq[num]:
                 freq[num] = rank
                 rank += 1
