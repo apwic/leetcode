@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/apwic/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/apwic/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/apwic/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/apwic/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2245-destroying-asteroids](https://github.com/apwic/leetcode/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/apwic/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/apwic/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/apwic/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1923-sentence-similarity-iii](https://github.com/apwic/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/apwic/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/apwic/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/apwic/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/apwic/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -700,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/apwic/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/apwic/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/apwic/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/apwic/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/apwic/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/apwic/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/apwic/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -749,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/apwic/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/apwic/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/apwic/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Shortest Path
 |  |
