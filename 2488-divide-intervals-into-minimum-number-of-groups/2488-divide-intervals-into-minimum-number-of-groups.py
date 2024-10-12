@@ -1,17 +1,12 @@
 class Solution:
     def minGroups(self, intervals: List[List[int]]) -> int:
-        events = []
+        intervals.sort()
+        heap = []
 
         for start, end in intervals:
-            events.append((start, 1))
-            events.append((end+1, -1))
+            if heap and start > heap[0]:
+                heapq.heappop(heap)
 
-        events.sort()
+            heapq.heappush(heap, end)
 
-        ans = 0
-        curr = 0
-        for _, delta in events:
-            curr += delta
-            ans = max(ans, curr)
-
-        return ans
+        return len(heap)
