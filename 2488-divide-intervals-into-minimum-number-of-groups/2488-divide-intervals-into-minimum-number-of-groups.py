@@ -4,11 +4,9 @@ class Solution:
 
         for start, end in intervals:
             events.append((start, 1))
-            events.append((end, -1))
+            events.append((end+1, -1))
 
-        # sort events, if start == end then start
-        # should be first, hence the -val
-        events.sort(key= lambda x: (x[0], -x[1]))
+        events.sort()
 
         ans = 0
         curr = 0
