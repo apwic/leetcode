@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups">2488. Divide Intervals Into Minimum Number of Groups</a></h2><h3>Medium</h3><hr><p>You are given a 2D integer array <code>intervals</code> where <code>intervals[i] = [left<sub>i</sub>, right<sub>i</sub>]</code> represents the <strong>inclusive</strong> interval <code>[left<sub>i</sub>, right<sub>i</sub>]</code>.</p>
+<h2><a href="https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/?envType=daily-question&envId=2024-10-12">2488. Divide Intervals Into Minimum Number of Groups</a></h2><h3>Medium</h3><hr><p>You are given a 2D integer array <code>intervals</code> where <code>intervals[i] = [left<sub>i</sub>, right<sub>i</sub>]</code> represents the <strong>inclusive</strong> interval <code>[left<sub>i</sub>, right<sub>i</sub>]</code>.</p>
 
 <p>You have to divide the intervals into one or more <strong>groups</strong> such that each interval is in <strong>exactly</strong> one group, and no two intervals that are in the same group <strong>intersect</strong> each other.</p>
 
