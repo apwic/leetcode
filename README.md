@@ -703,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/apwic/leetcode/tree/master/0137-single-number-ii) |
 | [0338-counting-bits](https://github.com/apwic/leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/apwic/leetcode/tree/master/0476-number-complement) |
+| [1054-complement-of-base-10-integer](https://github.com/apwic/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/apwic/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/apwic/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/apwic/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
