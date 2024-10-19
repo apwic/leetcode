@@ -734,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/apwic/leetcode/tree/master/1304-longest-happy-string) |
 | [1397-search-suggestions-system](https://github.com/apwic/leetcode/tree/master/1397-search-suggestions-system) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/apwic/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/apwic/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1764-maximum-repeating-substring](https://github.com/apwic/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/apwic/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/apwic/leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -758,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/apwic/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/apwic/leetcode/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/apwic/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## String Matching
 |  |
 | ------- |
@@ -769,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/apwic/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1184-car-pooling](https://github.com/apwic/leetcode/tree/master/1184-car-pooling) |
 | [1642-water-bottles](https://github.com/apwic/leetcode/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/apwic/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/apwic/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/apwic/leetcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/apwic/leetcode/tree/master/2645-pass-the-pillow) |
