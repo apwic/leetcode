@@ -577,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/apwic/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0988-flip-equivalent-binary-trees](https://github.com/apwic/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/apwic/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/apwic/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -595,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/apwic/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/apwic/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0988-flip-equivalent-binary-trees](https://github.com/apwic/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/apwic/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/apwic/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -630,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/apwic/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/apwic/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0988-flip-equivalent-binary-trees](https://github.com/apwic/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/apwic/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/apwic/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
