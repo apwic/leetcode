@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/apwic/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/apwic/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/apwic/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/apwic/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/apwic/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/apwic/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/apwic/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -450,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/apwic/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/apwic/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/apwic/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/apwic/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/apwic/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/apwic/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/apwic/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/apwic/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/apwic/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/apwic/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/apwic/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/apwic/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Bucket Sort
 |  |
@@ -541,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/apwic/leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/apwic/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/apwic/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2586-longest-square-streak-in-an-array](https://github.com/apwic/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -696,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1764-maximum-repeating-substring](https://github.com/apwic/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/apwic/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/apwic/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2586-longest-square-streak-in-an-array](https://github.com/apwic/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/apwic/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Interactive
 |  |
