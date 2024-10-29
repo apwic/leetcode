@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/apwic/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/apwic/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/apwic/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/apwic/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/apwic/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/apwic/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/apwic/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -627,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/apwic/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/apwic/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/apwic/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/apwic/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -701,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/apwic/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/apwic/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2586-longest-square-streak-in-an-array](https://github.com/apwic/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/apwic/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/apwic/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Interactive
 |  |
