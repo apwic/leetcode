@@ -380,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/apwic/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/apwic/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/apwic/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3113-beautiful-towers-ii](https://github.com/apwic/leetcode/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/apwic/leetcode/tree/master/3114-beautiful-towers-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/apwic/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/apwic/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -850,6 +851,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-design-a-stack-with-increment-operation](https://github.com/apwic/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/apwic/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/apwic/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3113-beautiful-towers-ii](https://github.com/apwic/leetcode/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/apwic/leetcode/tree/master/3114-beautiful-towers-i) |
 ## Shortest Path
 |  |
@@ -881,6 +883,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/apwic/leetcode/tree/master/1002-maximum-width-ramp) |
+| [3113-beautiful-towers-ii](https://github.com/apwic/leetcode/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/apwic/leetcode/tree/master/3114-beautiful-towers-i) |
 ## Enumeration
 |  |
