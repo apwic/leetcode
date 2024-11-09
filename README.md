@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/apwic/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apwic/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/apwic/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/apwic/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/apwic/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/apwic/leetcode/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/apwic/leetcode/tree/master/0198-house-robber) |
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/apwic/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/apwic/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/apwic/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/apwic/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/apwic/leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -696,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/apwic/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1753-path-with-minimum-effort](https://github.com/apwic/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
