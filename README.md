@@ -950,4 +950,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/apwic/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/apwic/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/apwic/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
