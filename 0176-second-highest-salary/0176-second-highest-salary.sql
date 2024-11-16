@@ -1,12 +1,8 @@
 # Write your MySQL query statement below
-WITH SecondSalary 
-AS (
-    SELECT DISTINCT salary as "SecondHighestSalary"
+SELECT IFNULL ((
+    SELECT DISTINCT salary
     FROM Employee
     ORDER BY salary DESC
     LIMIT 1
     OFFSET 1
-)
-
-SELECT (SELECT * FROM SecondSalary) AS "SecondHighestSalary"
-FROM DUAL;
+), NULL) AS "SecondHighestSalary";
