@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/apwic/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/apwic/leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/apwic/leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/apwic/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1184-car-pooling](https://github.com/apwic/leetcode/tree/master/1184-car-pooling) |
 | [1192-divide-chocolate](https://github.com/apwic/leetcode/tree/master/1192-divide-chocolate) |
 | [1256-rank-transform-of-an-array](https://github.com/apwic/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -468,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/apwic/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0906-walking-robot-simulation](https://github.com/apwic/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/apwic/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/apwic/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/apwic/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/apwic/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/apwic/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -683,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/apwic/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/apwic/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/apwic/leetcode/tree/master/0079-word-search) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/apwic/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/apwic/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/apwic/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/apwic/leetcode/tree/master/1753-path-with-minimum-effort) |
