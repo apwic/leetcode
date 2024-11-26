@@ -649,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/apwic/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/apwic/leetcode/tree/master/0226-invert-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/apwic/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/apwic/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -671,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/apwic/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/apwic/leetcode/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/apwic/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/apwic/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -717,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/apwic/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/apwic/leetcode/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/apwic/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/apwic/leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -730,6 +733,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/apwic/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/apwic/leetcode/tree/master/0322-coin-change) |
 | [0787-sliding-puzzle](https://github.com/apwic/leetcode/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/apwic/leetcode/tree/master/0813-all-paths-from-source-to-target) |
