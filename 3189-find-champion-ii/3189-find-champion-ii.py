@@ -1,28 +1,19 @@
 class Solution:
     def findChampion(self, n: int, edges: List[List[int]]) -> int:
-        graphs = defaultdict(set)
-        roots = set([i for i in range(n)])
+        indegree = [0] * n
 
         for a, b in edges:
-            roots.add(a)
-            graphs[a].add(b)
+            indegree[b] += 1
 
-        def dfs(node, visited):
-            for neighbor in graphs[node]:
-                if neighbor in visited:
-                    continue
+        count = 0
+        champ = -1
 
-                visited.add(node)
-                roots.discard(neighbor)
-                dfs(neighbor, visited)
+        for i in range(n):
+            if count > 1:
+                return -1
 
-        temp = roots.copy()
-        for node in temp:
-            if node in roots:
-                dfs(node, set())
+            if indegree[i] == 0:
+                count += 1
+                champ = i
 
-        if len(roots) == 1:
-            for root in roots:
-                return root
-
-        return -1
+        return champ if count == 1 else -1
