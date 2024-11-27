@@ -1,23 +1,17 @@
 class Solution:
     def shortestDistanceAfterQueries(self, n: int, queries: List[List[int]]) -> List[int]:
-        def bfs(root = 0):
-            queue = deque([(root, 0)])
-            visited = set([root])
+        def dp():
+            memo = [i for i in range(n-1, -1, -1)]
+            memo.append(0)
 
-            while queue:
-                node, distance = queue.popleft()
-
-                if node == n-1:
-                    return distance
-
+            for node in range(n-2, -1, -1):
+                min_dist = n
                 for neighbor in graphs[node]:
-                    if neighbor in visited:
-                        continue
+                    min_dist = min(min_dist, memo[neighbor] + 1)
 
-                    visited.add(neighbor)
-                    queue.append((neighbor, distance+1))
+                memo[node] = min_dist
 
-            return -1
+            return memo[0]
 
         graphs = defaultdict(set)
 
@@ -27,6 +21,6 @@ class Solution:
         res = []
         for a, b in queries:
             graphs[a].add(b)
-            res.append(bfs())
+            res.append(dp())
 
         return res
