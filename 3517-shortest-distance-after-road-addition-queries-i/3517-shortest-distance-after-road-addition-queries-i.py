@@ -1,8 +1,7 @@
 class Solution:
     def shortestDistanceAfterQueries(self, n: int, queries: List[List[int]]) -> List[int]:
         def dp():
-            memo = [i for i in range(n-1, -1, -1)]
-            memo.append(0)
+            memo = [0] * n
 
             for node in range(n-2, -1, -1):
                 min_dist = n
