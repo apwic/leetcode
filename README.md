@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/apwic/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/apwic/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/apwic/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/apwic/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/apwic/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/apwic/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/apwic/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/apwic/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/apwic/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/apwic/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/apwic/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/apwic/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/apwic/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/apwic/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -524,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/apwic/leetcode/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/apwic/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/apwic/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/apwic/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/apwic/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/apwic/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/apwic/leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -571,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/apwic/leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/apwic/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0875-longest-mountain-in-array](https://github.com/apwic/leetcode/tree/master/0875-longest-mountain-in-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/apwic/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/apwic/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/apwic/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/apwic/leetcode/tree/master/1972-rotating-the-box) |
@@ -598,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/apwic/leetcode/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/apwic/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/apwic/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/apwic/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/apwic/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/apwic/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/apwic/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
