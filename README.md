@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/apwic/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1829-maximum-units-on-a-truck](https://github.com/apwic/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1839-decode-xored-array](https://github.com/apwic/leetcode/tree/master/1839-decode-xored-array) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/apwic/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/apwic/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/apwic/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/apwic/leetcode/tree/master/1972-rotating-the-box) |
@@ -615,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/apwic/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/apwic/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/apwic/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/apwic/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/apwic/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/apwic/leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/apwic/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
