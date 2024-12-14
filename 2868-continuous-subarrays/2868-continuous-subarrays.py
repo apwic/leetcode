@@ -1,24 +1,20 @@
 class Solution:
     def continuousSubarrays(self, nums: List[int]) -> int:
         n = len(nums)
-        min_heap = []
-        max_heap = []
-        l = r = 0
+        freq = {}
         ans = 0
 
+        l = 0
         for r in range(n):
-            heapq.heappush(min_heap, (nums[r], r))
-            heapq.heappush(max_heap, (-nums[r], r))
+            freq[nums[r]] = freq.get(nums[r], 0) + 1
 
-            # shrink windows if condition is violated
-            while l < r and -max_heap[0][0] - min_heap[0][0] > 2:
+            # shrink windows if violated
+            while max(freq) - min(freq) > 2:
+                freq[nums[l]] -= 1
+                if freq[nums[l]] == 0:
+                    del freq[nums[l]]
+
                 l += 1
-
-                # delete from heap if index is outside
-                while min_heap and min_heap[0][1] < l:
-                    heapq.heappop(min_heap)
-                while max_heap and max_heap[0][1] < l:
-                    heapq.heappop(max_heap)
 
             ans += r - l + 1
 
