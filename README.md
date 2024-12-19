@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/apwic/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/apwic/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/apwic/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0780-max-chunks-to-make-sorted](https://github.com/apwic/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/apwic/leetcode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/apwic/leetcode/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/apwic/leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/apwic/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/apwic/leetcode/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/apwic/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0780-max-chunks-to-make-sorted](https://github.com/apwic/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/apwic/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/apwic/leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/apwic/leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
@@ -545,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/apwic/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/apwic/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/apwic/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0780-max-chunks-to-make-sorted](https://github.com/apwic/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1014-k-closest-points-to-origin](https://github.com/apwic/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/apwic/leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1184-car-pooling](https://github.com/apwic/leetcode/tree/master/1184-car-pooling) |
@@ -1013,6 +1016,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/apwic/leetcode/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/apwic/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/apwic/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/apwic/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/apwic/leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -1056,6 +1060,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/apwic/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/apwic/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/apwic/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/apwic/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
