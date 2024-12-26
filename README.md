@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/apwic/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/apwic/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0491-non-decreasing-subsequences](https://github.com/apwic/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/apwic/leetcode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/apwic/leetcode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/apwic/leetcode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/apwic/leetcode/tree/master/0539-minimum-time-difference) |
@@ -856,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/apwic/leetcode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/apwic/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/apwic/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/apwic/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/apwic/leetcode/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/apwic/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/apwic/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -897,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/apwic/leetcode/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/apwic/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/apwic/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/apwic/leetcode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/apwic/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/apwic/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/apwic/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
