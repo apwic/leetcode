@@ -1,6 +1,7 @@
 class Solution:
     def stringMatching(self, words: List[str]) -> List[str]:
-        freq = defaultdict(bool)
+        words_set = set(words)
+        ans = set([])
 
         for word in words:
             n = len(word)
@@ -9,12 +10,7 @@ class Solution:
                 for j in range(i, n):
                     substr.append(word[j])
                     joined = "".join(substr)
-                    if joined != word:
-                        freq["".join(substr)] = True
-                        
-        ans = []
-        for word in words:
-            if freq[word]:
-                ans.append(word)
+                    if joined != word and joined in words_set:
+                        ans.add(joined)
 
-        return ans
+        return list(ans)
