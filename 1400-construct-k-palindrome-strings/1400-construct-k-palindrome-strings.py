@@ -7,9 +7,8 @@ class Solution:
             return True
 
         freq = Counter(s)
-        even = odd = 0
+        odd = 0
         for val in freq.values():
-            even += val // 2
             odd += val % 2
 
-        return not odd > k
+        return odd <= k
