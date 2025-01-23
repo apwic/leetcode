@@ -351,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/apwic/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/apwic/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/apwic/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/apwic/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/apwic/leetcode/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/apwic/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/apwic/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -612,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/apwic/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/apwic/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/apwic/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/apwic/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/apwic/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/apwic/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/apwic/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -789,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/apwic/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/apwic/leetcode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/apwic/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/apwic/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/apwic/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/apwic/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/apwic/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -832,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/apwic/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0988-flip-equivalent-binary-trees](https://github.com/apwic/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/apwic/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/apwic/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/apwic/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/apwic/leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
@@ -851,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/apwic/leetcode/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/apwic/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/apwic/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1396-count-servers-that-communicate](https://github.com/apwic/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/apwic/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/apwic/leetcode/tree/master/1876-map-of-highest-peak) |
@@ -867,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/apwic/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1396-count-servers-that-communicate](https://github.com/apwic/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/apwic/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
