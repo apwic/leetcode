@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/apwic/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/apwic/leetcode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/apwic/leetcode/tree/master/0792-binary-search) |
+| [0854-making-a-large-island](https://github.com/apwic/leetcode/tree/master/0854-making-a-large-island) |
 | [0875-longest-mountain-in-array](https://github.com/apwic/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/apwic/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/apwic/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -792,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/apwic/leetcode/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/apwic/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/apwic/leetcode/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/apwic/leetcode/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/apwic/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/apwic/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/apwic/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -837,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/apwic/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/apwic/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/apwic/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/apwic/leetcode/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/apwic/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/apwic/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/apwic/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -860,6 +863,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/apwic/leetcode/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/apwic/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/apwic/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/apwic/leetcode/tree/master/0854-making-a-large-island) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/apwic/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1396-count-servers-that-communicate](https://github.com/apwic/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/apwic/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -880,6 +884,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/apwic/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/apwic/leetcode/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/apwic/leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/apwic/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/apwic/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/apwic/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
