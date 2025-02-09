@@ -406,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/apwic/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/apwic/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/apwic/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2448-count-number-of-bad-pairs](https://github.com/apwic/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/apwic/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/apwic/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/apwic/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/apwic/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/apwic/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/apwic/leetcode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/apwic/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/apwic/leetcode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/apwic/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/apwic/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -634,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/apwic/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/apwic/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/apwic/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/apwic/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/apwic/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Quickselect
 |  |
@@ -736,6 +739,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/apwic/leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/apwic/leetcode/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/apwic/leetcode/tree/master/2155-find-missing-observations) |
+| [2448-count-number-of-bad-pairs](https://github.com/apwic/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/apwic/leetcode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/apwic/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/apwic/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
