@@ -1,17 +1,20 @@
 class Solution:
     def maximumSum(self, nums: List[int]) -> int:
-        freq = {}
+        def digitSum(num):
+            digit_sum = 0
+            while num > 0:
+                digit_sum += num % 10
+                num //= 10
+            return digit_sum
+
+        freq = [0] * 82 # Cover all sum 0 to 81
         ans = -1
-        
         for num in nums:
-            digit_sum = list(str(num))
-            digit_sum = sum([int(el) for el in digit_sum])
-            
-            if digit_sum in freq:
-                val = freq[digit_sum]
-                ans = max(ans, num + val)
-                freq[digit_sum] = max(num, val)
-            else:
-                freq[digit_sum] = num
-                
+            digit_sum = digitSum(num)
+            val_sum = freq[digit_sum]
+            if val_sum > 0:
+                ans = max(ans, val_sum + num)
+
+            freq[digit_sum] = max(val_sum, num)
+
         return ans
