@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/apwic/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/apwic/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/apwic/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/apwic/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1829-maximum-units-on-a-truck](https://github.com/apwic/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1839-decode-xored-array](https://github.com/apwic/leetcode/tree/master/1839-decode-xored-array) |
 | [1876-map-of-highest-peak](https://github.com/apwic/leetcode/tree/master/1876-map-of-highest-peak) |
@@ -988,6 +989,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/apwic/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/apwic/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/apwic/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/apwic/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/apwic/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/apwic/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
