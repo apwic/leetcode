@@ -766,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/apwic/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/apwic/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/apwic/leetcode/tree/master/1642-water-bottles) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/apwic/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2155-find-missing-observations](https://github.com/apwic/leetcode/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/apwic/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/apwic/leetcode/tree/master/2645-pass-the-pillow) |
