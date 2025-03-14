@@ -1287,6 +1287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0181-employees-earning-more-than-their-managers](https://github.com/apwic/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/apwic/leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/apwic/leetcode/tree/master/0183-customers-who-never-order) |
+| [0610-triangle-judgement](https://github.com/apwic/leetcode/tree/master/0610-triangle-judgement) |
 | [1942-primary-department-for-each-employee](https://github.com/apwic/leetcode/tree/master/1942-primary-department-for-each-employee) |
 ## Queue
 |  |
