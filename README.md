@@ -455,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3113-beautiful-towers-ii](https://github.com/apwic/leetcode/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/apwic/leetcode/tree/master/3114-beautiful-towers-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/apwic/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/apwic/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/apwic/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/apwic/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3188-find-champion-i](https://github.com/apwic/leetcode/tree/master/3188-find-champion-i) |
