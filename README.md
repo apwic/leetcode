@@ -820,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/apwic/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/apwic/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/apwic/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/apwic/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/apwic/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/apwic/leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/apwic/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1322,6 +1323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/apwic/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/apwic/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2998-count-symmetric-integers](https://github.com/apwic/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Database
 |  |
 | ------- |
