@@ -411,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2245-destroying-asteroids](https://github.com/apwic/leetcode/tree/master/2245-destroying-asteroids) |
 | [2262-solving-questions-with-brainpower](https://github.com/apwic/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/apwic/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/apwic/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/apwic/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2308-divide-array-into-equal-pairs](https://github.com/apwic/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/apwic/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
