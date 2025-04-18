@@ -1139,6 +1139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/apwic/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/apwic/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/apwic/leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/apwic/leetcode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/apwic/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/apwic/leetcode/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/apwic/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
