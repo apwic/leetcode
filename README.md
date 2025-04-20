@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/apwic/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/apwic/leetcode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/apwic/leetcode/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/apwic/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/apwic/leetcode/tree/master/0854-making-a-large-island) |
 | [0875-longest-mountain-in-array](https://github.com/apwic/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/apwic/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/apwic/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/apwic/leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/apwic/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/apwic/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/apwic/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/apwic/leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/apwic/leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
@@ -571,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/apwic/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/apwic/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/apwic/leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/apwic/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/apwic/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/apwic/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/apwic/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -804,6 +807,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/apwic/leetcode/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/apwic/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/apwic/leetcode/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/apwic/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/apwic/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/apwic/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/apwic/leetcode/tree/master/1014-k-closest-points-to-origin) |
