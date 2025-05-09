@@ -830,6 +830,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/apwic/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/apwic/leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/apwic/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/apwic/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Geometry
 |  |
 | ------- |
@@ -1060,6 +1061,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/apwic/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/apwic/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/apwic/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/apwic/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Interactive
 |  |
 | ------- |
@@ -1207,6 +1209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/apwic/leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/apwic/leetcode/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/apwic/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/apwic/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Memoization
 |  |
 | ------- |
@@ -1257,6 +1260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/apwic/leetcode/tree/master/0062-unique-paths) |
+| [3637-count-number-of-balanced-permutations](https://github.com/apwic/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Game Theory
 |  |
 | ------- |
