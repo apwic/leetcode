@@ -808,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/apwic/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/apwic/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/apwic/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/apwic/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Math
 |  |
 | ------- |
@@ -957,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/apwic/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/apwic/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/apwic/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/apwic/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1232,6 +1234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/apwic/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/apwic/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/apwic/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/apwic/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -1361,6 +1364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/apwic/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/apwic/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/apwic/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/apwic/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Database
 |  |
 | ------- |
