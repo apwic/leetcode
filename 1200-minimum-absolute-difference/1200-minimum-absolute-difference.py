@@ -6,13 +6,13 @@ class Solution:
 
         # find the min diff?
         min_diff = arr[-1] - arr[0]
-        for i in range(1, n):
-            if arr[i] - arr[i-1] < min_diff:
-                min_diff = arr[i] - arr[i-1] 
-
         ans = []
         for i in range(1, n):
-            if min_diff == arr[i] - arr[i-1] :
+            if arr[i] - arr[i-1]  == min_diff:
                 ans.append([arr[i-1], arr[i]])
+
+            if arr[i] - arr[i-1] < min_diff:
+                min_diff = arr[i] - arr[i-1] 
+                ans = [[arr[i-1], arr[i]]]
 
         return ans
